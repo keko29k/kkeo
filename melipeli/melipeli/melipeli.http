@@ -1,0 +1,6 @@
+@melipeli_HostAddress = http://localhost:5004
+
+GET {{melipeli_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
